@@ -1,0 +1,6 @@
+add_executable(triangle triangle.c)
+add_executable(single single.c)
+add_executable(factorial-1 factorial-1.c)
+add_executable(converter-1 converter-1.c)
+add_executable(blackhole blackhole.c)
+add_executable(standup standup.c)

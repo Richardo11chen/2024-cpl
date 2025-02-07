@@ -1,0 +1,17 @@
+//
+// Created by ASUS on 24-11-5.
+//
+// Created by hfwei on 2024/10/31.
+
+#include <stdio.h>
+#define LEN 100
+
+int main(void) {
+    int numbers[LEN] = {0};
+
+    for (unsigned int i = LEN - 1; i >= 0; i--) {
+        printf("%u : %d\n", i, numbers[i]);
+    }
+
+    return 0;
+}

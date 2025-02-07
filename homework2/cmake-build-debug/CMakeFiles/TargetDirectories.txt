@@ -1,0 +1,3 @@
+F:/clioncode/codes/homework2/cmake-build-debug/CMakeFiles/triangle.dir
+F:/clioncode/codes/homework2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/clioncode/codes/homework2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+add_executable(wine wine.c)
+add_executable(stack stack.c)
+add_executable(brackets brackets.c)
+add_executable(counting counting.c)
+add_executable(BUDDY BUDDY.c)
+add_executable(mines-2 mines-2.c)
+add_executable(whac-a-mole whac-a-mole.c)
+add_executable(stack1 stack1.c)

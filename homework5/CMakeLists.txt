@@ -1,0 +1,6 @@
+add_executable(sum sum.c)
+add_executable(next-permutation next-permutation.c)
+add_executable(absolute-prime absolute-prime.c)
+add_executable(converter-2 converter-2.c)
+add_executable(radix radix.c)
+add_executable(pair pair.c)

@@ -1,0 +1,8 @@
+add_executable(bit bit.c)
+add_executable(must must.c)
+add_executable(matrix-mult matrix-mult.c)
+add_executable(guess-num guess-num.c)
+add_executable(sudoku sudoku.c)
+add_executable(mines-1 mines-1.c)
+add_executable(magic-square magic-square.c)
+add_executable(match match.c)
